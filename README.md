@@ -1,2 +1,2 @@
 # Tableau_Viz
-This Repository contains the tableau visualizations
+This Repository contains tableau visualizations
